@@ -4,7 +4,7 @@ h1 {
 }
 body {
     background-color: yellow;
-    font-family: Dosis, Lato;
+    font-family: "Dosis", "Lato", sans-serif;
     text-align: center;
 }
 p {
